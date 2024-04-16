@@ -7,7 +7,7 @@ using UnityEngine;
 public class SetTerrainObstaclesEditor : EditorWindow
 {
 
-    [MenuItem("Tools/Set Terrain Obstacles")]
+    [MenuItem("Tools/Set Terrain Tree Obstacles")]
     public static void ShowWindow()
     {
         EditorWindow.GetWindow<SetTerrainObstaclesEditor>("Set Tree Terrain Obstacles");
